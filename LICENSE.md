@@ -1,4 +1,4 @@
-# 
+# rare Plugin for KeePass for PC | KeePass for Windows - password-generator and offline-access is the best KeePass for PC | KeePass for Windows plugin, featuring password-generator
 
 
 
